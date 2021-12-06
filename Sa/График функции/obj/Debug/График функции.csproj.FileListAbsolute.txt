@@ -1,0 +1,20 @@
+C:\Users\инет\source\repos\График функции\bin\Debug\График функции.exe.config
+C:\Users\инет\source\repos\График функции\bin\Debug\График функции.exe
+C:\Users\инет\source\repos\График функции\bin\Debug\График функции.pdb
+C:\Users\инет\source\repos\График функции\obj\Debug\График функции.csproj.AssemblyReference.cache
+C:\Users\инет\source\repos\График функции\obj\Debug\График_функции.Form1.resources
+C:\Users\инет\source\repos\График функции\obj\Debug\График_функции.Properties.Resources.resources
+C:\Users\инет\source\repos\График функции\obj\Debug\График функции.csproj.GenerateResource.cache
+C:\Users\инет\source\repos\График функции\obj\Debug\График функции.csproj.CoreCompileInputs.cache
+C:\Users\инет\source\repos\График функции\obj\Debug\График функции.exe
+C:\Users\инет\source\repos\График функции\obj\Debug\График функции.pdb
+C:\Users\инет\Source\Repos\Sa\График функции\bin\Debug\График функции.exe.config
+C:\Users\инет\Source\Repos\Sa\График функции\bin\Debug\График функции.exe
+C:\Users\инет\Source\Repos\Sa\График функции\bin\Debug\График функции.pdb
+C:\Users\инет\Source\Repos\Sa\График функции\obj\Debug\График функции.csprojAssemblyReference.cache
+C:\Users\инет\Source\Repos\Sa\График функции\obj\Debug\График_функции.Form1.resources
+C:\Users\инет\Source\Repos\Sa\График функции\obj\Debug\График_функции.Properties.Resources.resources
+C:\Users\инет\Source\Repos\Sa\График функции\obj\Debug\График функции.csproj.GenerateResource.cache
+C:\Users\инет\Source\Repos\Sa\График функции\obj\Debug\График функции.csproj.CoreCompileInputs.cache
+C:\Users\инет\Source\Repos\Sa\График функции\obj\Debug\График функции.exe
+C:\Users\инет\Source\Repos\Sa\График функции\obj\Debug\График функции.pdb
